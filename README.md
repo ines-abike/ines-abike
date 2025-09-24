@@ -9,4 +9,3 @@ I build web projects that are functional, elegant, and enjoyable to use. I also 
 
 I’m always open to collaboration, feedback, and new ideas. Feel free to check out my repositories, follow my content on LinkedIn, and reach out!
 
-[![Ines's GitHub stats](https://github-readme-stats.vercel.app/api?username=ines-abike)](https://github.com/anuraghazra/github-readme-stats)
